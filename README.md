@@ -1,3 +1,3 @@
 # React CSV File Input Drag n Drop Demo
 
-## Demo: https://ngakana.github.io/react-file-input/
+## Live Demo: <a href="https://ngakana.github.io/react-file-input/" target="_blank">https://ngakana.github.io/react-file-input/</a>
